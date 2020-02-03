@@ -10,3 +10,8 @@ https://marp.app/#get-started
 ## Documentation Marpit
 
 https://marpit.marp.app/
+
+## Génération de la présentation
+
+Une fois la présentation terminée, exporter en HTML (via le plugin VSCode), et l'ouvrir.
+Une interface multi-écrans avec les notes de présentation sera disponible.

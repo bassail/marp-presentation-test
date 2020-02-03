@@ -6,7 +6,7 @@ paginate: true
 footer: 'Marp, une alternative à RevealJS ?'
 ---
 
-# Slide #1 
+# **Slide #1** 
 
 ![bg left:40% 80%](https://upload.wikimedia.org/wikipedia/commons/a/ab/Android_O_Preview_Logo.png)
 Alors, c'est bien Marp ? 
